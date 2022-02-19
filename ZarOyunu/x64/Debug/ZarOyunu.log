@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\Melih Güler\source\repos\ZarOyunu\Kaynak.cpp(12,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  ZarOyunu.vcxproj -> C:\Users\Melih Güler\source\repos\ZarOyunu\x64\Debug\ZarOyunu.exe

@@ -1,0 +1,2 @@
+﻿  Kaynak.cpp
+C:\Users\Melih Güler\source\repos\RasgeleSayi\Kaynak.cpp(12,2): error C2146: sözdizimi hatası: ';' eksik ('cout' tanımlayıcısından önce)

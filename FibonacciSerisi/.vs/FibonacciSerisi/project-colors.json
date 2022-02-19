@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "443968e3-6f4f-4f61-8ce5-c2524bc6516c": {
+      "ProjectGuid": "443968e3-6f4f-4f61-8ce5-c2524bc6516c",
+      "DisplayName": "FibonacciSerisi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

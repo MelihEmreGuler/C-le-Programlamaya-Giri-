@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f251a9ce-d044-4a7d-9e94-ea9a68ce2140": {
+      "ProjectGuid": "f251a9ce-d044-4a7d-9e94-ea9a68ce2140",
+      "DisplayName": "OrnekPalindrome",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

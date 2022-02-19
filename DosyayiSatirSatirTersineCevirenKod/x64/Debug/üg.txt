@@ -1,0 +1,3 @@
+sifirdan c++ ve programlama ogrenin 1. giris
+Bu egitimdeki derslere nasil calisilmali
+windows ortaminda codelite kurulumu opsiyonel

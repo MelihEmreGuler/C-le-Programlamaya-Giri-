@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\MelihGuler\source\repos\DinamikHafizaVeMalloc\Kaynak.cpp(10,6): warning C4101: 'a': yerel değişken başvurusu kaldırıldı
+  DinamikHafizaVeMalloc.vcxproj -> C:\Users\MelihGuler\source\repos\DinamikHafizaVeMalloc\x64\Debug\DinamikHafizaVeMalloc.exe

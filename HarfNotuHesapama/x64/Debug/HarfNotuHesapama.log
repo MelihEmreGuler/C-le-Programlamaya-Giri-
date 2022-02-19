@@ -1,0 +1,4 @@
+﻿  Kaynak.cpp
+C:\Users\Melih Güler\source\repos\HarfNotuHesapama\Kaynak.cpp(8,10): warning C4804: '>=' : işlemde güvenli olmayan 'bool' türü kullanımı
+C:\Users\Melih Güler\source\repos\HarfNotuHesapama\Kaynak.cpp(32,14): warning C4804: '>=' : işlemde güvenli olmayan 'bool' türü kullanımı
+  HarfNotuHesapama.vcxproj -> C:\Users\Melih Güler\source\repos\HarfNotuHesapama\x64\Debug\HarfNotuHesapama.exe
